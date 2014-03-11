@@ -1,0 +1,4 @@
+Smashplan
+=========
+
+Smart Shopping Planner
